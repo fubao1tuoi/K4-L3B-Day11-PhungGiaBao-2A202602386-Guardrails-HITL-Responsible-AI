@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T03:16:36.685683+00:00",
-  "submission_dir": "D:\\AITC VinUni\\K4-L3B-Day11-PhungGiaBao-02386-Guardrails-HITL-Responsible-AI",
+  "generated_at": "2026-09-28T03:23:34.995852+00:00",
+  "submission_dir": "D:\\AITC VinUni\\K4-L3B-Day11-PhungGiaBao-2A202602386-Guardrails-HITL-Responsible-AI",
   "technical_failure": false,
   "packaging": {
     "ok": true,
@@ -47,7 +47,7 @@
   },
   "public_tests": {
     "returncode": 0,
-    "stdout": "..........                                                               [100%]\n10 passed in 1.58s\n",
+    "stdout": "..........                                                               [100%]\n10 passed in 1.37s\n",
     "stderr": "",
     "technical_failure": false
   },
